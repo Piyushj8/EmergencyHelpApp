@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">EmergencyHelp</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="sign_in_button">Sign In</string>
+    <string name="sign_up_text">Do not have an account? Sign up</string>
+    <string name="profile_image">Profile Image</string>
+    <string name="login">Login</string>
+    <string name="email" />
+    <string name="password" />
+    <string name="register">registration</string>
+</resources>
